@@ -1,0 +1,33 @@
+.search-bars {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.row {
+	margin: 20px auto;
+}
+
+.card {
+	padding: 30px;
+	margin: 5 auto;
+	border: none;
+	border-radius: 0;
+	max-width: 400px;
+}
+.product-image {
+	min-height: 200px;
+}
+
+.card-body {
+	padding-left: 0 !important;
+}
+.card-footer {
+	background-color: var(--white-colour) !important;
+	border-top: none;
+	padding: 0;
+	width: 100%;
+}
+
+a.btn.btn-primary {
+	width: 100%;
+}

@@ -1,0 +1,23 @@
+@import "_variables.css";
+@import "_nav.css";
+@import "_home.css";
+@import "_shop.css";
+.hero-banner {
+	position: relative;
+	padding: 0px;
+}
+.hero-banner img {
+	min-height: 600px;
+	object-fit: cover;
+}
+h1 a {
+	color: white;
+	max-width: 540px;
+	position: absolute;
+	top: 30%;
+	left: 20%;
+}
+
+h1.side-title {
+	text-align: center;
+}
